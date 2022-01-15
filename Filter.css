@@ -1,0 +1,9 @@
+body{
+background-color: oldlace;
+}
+
+canvas{
+border: ridge;
+border-color: wheat;
+box-shadow: yellowgreen, 5, 5, 5;
+}
